@@ -15,7 +15,7 @@ camera calibration is a process to get the intrinsic parameters of your camera, 
 
 
 ### in this rep:
-#### Camera_params : is the folder containing my camera's intrinsic and extrinsic parameters after performing the camera calibrartion.
-#### Images : is the folder containing the left and the right image.
-#### results : is the folder containing feature points extraction with SIFT
-#### main.py : is the file containing the program performing the depth computation with simple stereo.
+**Camera_params** : is the folder containing my camera's intrinsic and extrinsic parameters after performing the camera calibrartion.
+**Images** : is the folder containing the left and the right image.
+**Results** : is the folder containing feature points extraction with SIFT
+**main.py** : is the file containing the program performing the depth computation with simple stereo.
